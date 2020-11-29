@@ -1,9 +1,4 @@
-
-# Python 2.7.3
-# After running, type "pi(n)" where n is the number of decimals for pi.  Fo
-#  example, if you would like to calculate 100 decimals for pi, type "pi(100)".
-
-# import python libraries
+#import python libraries
 from decimal import Decimal, getcontext
 from time import time, strftime
 import datetime
